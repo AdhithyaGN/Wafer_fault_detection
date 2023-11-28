@@ -1,0 +1,23 @@
+2023-11-22/14:35:12		Error while creating table : table Good_Raw_Data already exists
+2023-11-22/14:43:13		Tables created successfully :Training
+2023-11-22/14:45:55		Tables created successfully :Training
+2023-11-22/14:51:07		Tables created successfully :Training
+2023-11-22/14:52:25		Tables created successfully :Training
+2023-11-22/14:54:25		Tables created successfully :Training
+2023-11-22/15:08:44		Tables created successfully :Training
+2023-11-22/15:13:19		Tables created successfully :Training
+2023-11-22/15:15:33		Tables created successfully :Training
+2023-11-22/16:10:57		Table Created Successfully
+2023-11-22/16:16:08		Table Created Successfully
+2023-11-22/17:50:01		Tables created successfully :Training
+2023-11-22/18:16:23		Tables created successfully :Training
+2023-11-22/18:18:14		Tables created successfully :Training
+2023-11-22/18:23:59		Tables created successfully :Training
+2023-11-22/18:31:11		Tables created successfully :Training
+2023-11-22/18:36:16		Tables created successfully :Training
+2023-11-22/18:42:13		Tables created successfully :Training
+2023-11-22/18:44:50		Tables created successfully :Training
+2023-11-22/18:54:05		Tables created successfully :Training
+2023-11-22/18:56:57		Tables created successfully :Training
+2023-11-26/21:37:57		Tables created successfully :Training
+2023-11-27/10:02:15		Tables created successfully :Training

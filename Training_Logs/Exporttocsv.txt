@@ -1,0 +1,10 @@
+2023-11-22/18:18:21		file exporting failed.Error : 'DBoperations' object has no attribute 'fileFromDb'
+2023-11-22/18:24:07		file exported successfully
+2023-11-22/18:31:20		file exported successfully
+2023-11-22/18:36:25		file exported successfully
+2023-11-22/18:42:23		file exported successfully
+2023-11-22/18:45:00		file exported successfully
+2023-11-22/18:54:16		file exported successfully
+2023-11-22/18:57:09		file exported successfully
+2023-11-26/21:38:12		file exported successfully
+2023-11-27/10:02:28		file exported successfully

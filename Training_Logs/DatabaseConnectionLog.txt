@@ -1,0 +1,78 @@
+2023-11-22/14:35:12		Opened The Database Successfully : Training
+2023-11-22/14:35:12		database closed successfully :Training
+2023-11-22/14:43:13		Opened The Database Successfully : Training
+2023-11-22/14:43:13		database closed successfully :Training
+2023-11-22/14:43:13		Opened The Database Successfully : Training
+2023-11-22/14:45:55		Opened The Database Successfully : Training
+2023-11-22/14:45:55		database closed successfully :Training
+2023-11-22/14:45:55		Opened The Database Successfully : Training
+2023-11-22/14:51:07		Opened The Database Successfully : Training
+2023-11-22/14:51:07		database closed successfully :Training
+2023-11-22/14:51:07		Opened The Database Successfully : Training
+2023-11-22/14:52:25		Opened The Database Successfully : Training
+2023-11-22/14:52:25		database closed successfully :Training
+2023-11-22/14:52:25		Opened The Database Successfully : Training
+2023-11-22/14:54:25		Opened The Database Successfully : Training
+2023-11-22/14:54:25		database closed successfully :Training
+2023-11-22/14:54:25		Opened The Database Successfully : Training
+2023-11-22/15:08:44		Opened The Database Successfully : Training
+2023-11-22/15:08:44		database closed successfully :Training
+2023-11-22/15:08:44		Opened The Database Successfully : Training
+2023-11-22/15:13:19		Opened The Database Successfully : Training
+2023-11-22/15:13:19		database closed successfully :Training
+2023-11-22/15:13:19		Opened The Database Successfully : Training
+2023-11-22/15:15:33		Opened The Database Successfully : Training
+2023-11-22/15:15:33		database closed successfully :Training
+2023-11-22/15:15:33		Opened The Database Successfully : Training
+2023-11-22/16:10:54		Opened The Database Successfully : Training
+2023-11-22/16:10:57		database closed successfully :Training
+2023-11-22/16:10:57		Opened The Database Successfully : Training
+2023-11-22/16:16:05		Opened The Database Successfully : Training
+2023-11-22/16:16:08		database closed successfully :Training
+2023-11-22/16:16:08		Opened The Database Successfully : Training
+2023-11-22/17:50:01		Opened The Database Successfully : Training
+2023-11-22/17:50:01		database closed successfully :Training
+2023-11-22/17:50:01		Opened The Database Successfully : Training
+2023-11-22/18:16:23		Opened The Database Successfully : Training
+2023-11-22/18:16:23		database closed successfully :Training
+2023-11-22/18:16:24		Opened The Database Successfully : Training
+2023-11-22/18:18:14		Opened The Database Successfully : Training
+2023-11-22/18:18:14		database closed successfully :Training
+2023-11-22/18:18:14		Opened The Database Successfully : Training
+2023-11-22/18:18:20		Opened The Database Successfully : Training
+2023-11-22/18:23:59		Opened The Database Successfully : Training
+2023-11-22/18:23:59		database closed successfully :Training
+2023-11-22/18:23:59		Opened The Database Successfully : Training
+2023-11-22/18:24:04		Opened The Database Successfully : Training
+2023-11-22/18:31:11		Opened The Database Successfully : Training
+2023-11-22/18:31:11		database closed successfully :Training
+2023-11-22/18:31:11		Opened The Database Successfully : Training
+2023-11-22/18:31:16		Opened The Database Successfully : Training
+2023-11-22/18:36:16		Opened The Database Successfully : Training
+2023-11-22/18:36:16		database closed successfully :Training
+2023-11-22/18:36:16		Opened The Database Successfully : Training
+2023-11-22/18:36:21		Opened The Database Successfully : Training
+2023-11-22/18:42:13		Opened The Database Successfully : Training
+2023-11-22/18:42:13		database closed successfully :Training
+2023-11-22/18:42:13		Opened The Database Successfully : Training
+2023-11-22/18:42:18		Opened The Database Successfully : Training
+2023-11-22/18:44:50		Opened The Database Successfully : Training
+2023-11-22/18:44:50		database closed successfully :Training
+2023-11-22/18:44:50		Opened The Database Successfully : Training
+2023-11-22/18:44:55		Opened The Database Successfully : Training
+2023-11-22/18:54:05		Opened The Database Successfully : Training
+2023-11-22/18:54:05		database closed successfully :Training
+2023-11-22/18:54:05		Opened The Database Successfully : Training
+2023-11-22/18:54:10		Opened The Database Successfully : Training
+2023-11-22/18:56:57		Opened The Database Successfully : Training
+2023-11-22/18:56:57		database closed successfully :Training
+2023-11-22/18:56:57		Opened The Database Successfully : Training
+2023-11-22/18:57:02		Opened The Database Successfully : Training
+2023-11-26/21:37:57		Opened The Database Successfully : Training
+2023-11-26/21:37:57		database closed successfully :Training
+2023-11-26/21:37:57		Opened The Database Successfully : Training
+2023-11-26/21:38:04		Opened The Database Successfully : Training
+2023-11-27/10:02:15		Opened The Database Successfully : Training
+2023-11-27/10:02:15		database closed successfully :Training
+2023-11-27/10:02:15		Opened The Database Successfully : Training
+2023-11-27/10:02:20		Opened The Database Successfully : Training

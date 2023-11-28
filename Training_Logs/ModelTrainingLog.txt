@@ -1,0 +1,1043 @@
+2023-11-22/18:31:20		Start of Training
+2023-11-22/18:31:20		Entered the get_data method of Data_getter class
+2023-11-22/18:31:21		Data Loaded Successful.Exited the get_data method from data_getter class 
+2023-11-22/18:31:21		Entered the remove columns method of the preprocessor class 
+2023-11-22/18:31:21		Column Removed Successful.Exited the remove_columns method from preprocessor class
+2023-11-22/18:31:21		Entered Seperate_label_feature method in preprocessor class
+2023-11-22/18:31:21		Seperated features and labels,Exited Seperate_label_feature method from preprocessor class
+2023-11-22/18:31:21		Entered the is_null_present method of preprocessing class
+2023-11-22/18:31:21		Exception occured in is_null_present method of the preprocessor class .Exception message: NDFrame.to_csv() got an unexpected keyword argument 'mkdirs'
+2023-11-22/18:31:21		Checking is_null_present  Unsucessfull.Exited the is_null_present method from preprocessor class
+2023-11-22/18:31:21		Unsuccesfull End of Training
+2023-11-22/18:36:25		Start of Training
+2023-11-22/18:36:25		Entered the get_data method of Data_getter class
+2023-11-22/18:36:26		Data Loaded Successful.Exited the get_data method from data_getter class 
+2023-11-22/18:36:26		Entered the remove columns method of the preprocessor class 
+2023-11-22/18:36:26		Column Removed Successful.Exited the remove_columns method from preprocessor class
+2023-11-22/18:36:26		Entered Seperate_label_feature method in preprocessor class
+2023-11-22/18:36:26		Seperated features and labels,Exited Seperate_label_feature method from preprocessor class
+2023-11-22/18:36:26		Entered the is_null_present method of preprocessing class
+2023-11-22/18:36:26		Finding Missing values is a sucess,Data Written to null_values file.Exited is_null_present method from preprocessing class
+2023-11-22/18:36:26		Entered the impute_missing_values method of preprocessing class
+2023-11-22/18:36:50		Missing Values Imputed .Exited the impute_missing_values method from preprocessor class
+2023-11-22/18:36:50		Entered get_columns_with_zero_std method of preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:36:51		Entered the remove columns method of the preprocessor class 
+2023-11-22/18:36:51		Column Removed Successful.Exited the remove_columns method from preprocessor class
+2023-11-22/18:36:51		Entered the elbow plt method of class kmeansclustering
+2023-11-22/18:36:58		The optimum number of cluster is 3.Exited Elbow Method
+2023-11-22/18:36:58		Entered Number of clusters method of KmeansClustering
+2023-11-22/18:36:59		Entered the save model method inside file_operations class
+2023-11-22/18:36:59		Model saved sucessfully in models/Kmeans
+2023-11-22/18:36:59		Succesfully created [0 2 0 ... 2 0 1] clusters.Exited create clusters method from KMeans clustering method.
+2023-11-22/18:36:59		Unsuccesfull End of Training
+2023-11-22/18:42:23		Start of Training
+2023-11-22/18:42:23		Entered the get_data method of Data_getter class
+2023-11-22/18:42:23		Data Loaded Successful.Exited the get_data method from data_getter class 
+2023-11-22/18:42:23		Entered the remove columns method of the preprocessor class 
+2023-11-22/18:42:23		Column Removed Successful.Exited the remove_columns method from preprocessor class
+2023-11-22/18:42:23		Entered Seperate_label_feature method in preprocessor class
+2023-11-22/18:42:23		Seperated features and labels,Exited Seperate_label_feature method from preprocessor class
+2023-11-22/18:42:23		Entered the is_null_present method of preprocessing class
+2023-11-22/18:42:23		Finding Missing values is a sucess,Data Written to null_values file.Exited is_null_present method from preprocessing class
+2023-11-22/18:42:23		Entered the impute_missing_values method of preprocessing class
+2023-11-22/18:42:55		Missing Values Imputed .Exited the impute_missing_values method from preprocessor class
+2023-11-22/18:42:55		Entered get_columns_with_zero_std method of preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:42:56		Entered the remove columns method of the preprocessor class 
+2023-11-22/18:42:56		Column Removed Successful.Exited the remove_columns method from preprocessor class
+2023-11-22/18:42:56		Entered the elbow plt method of class kmeansclustering
+2023-11-22/18:43:04		The optimum number of cluster is 3.Exited Elbow Method
+2023-11-22/18:43:04		Entered Number of clusters method of KmeansClustering
+2023-11-22/18:43:04		Entered the save model method inside file_operations class
+2023-11-22/18:43:04		Model saved sucessfully in models/Kmeans
+2023-11-22/18:43:04		Succesfully created [0 2 0 ... 2 0 1] clusters.Exited create clusters method from KMeans clustering method.
+2023-11-22/18:43:04		Entered the get_best_model in Model_finder class
+2023-11-22/18:43:04		Exception occured in get_best_model.Exception message :'App_logger' object is not callable
+2023-11-22/18:43:04		Model selection Failed.Exited the get_best_model method from Model_Finder class
+2023-11-22/18:43:04		Unsuccesfull End of Training
+2023-11-22/18:45:00		Start of Training
+2023-11-22/18:45:00		Entered the get_data method of Data_getter class
+2023-11-22/18:45:01		Data Loaded Successful.Exited the get_data method from data_getter class 
+2023-11-22/18:45:01		Entered the remove columns method of the preprocessor class 
+2023-11-22/18:45:01		Column Removed Successful.Exited the remove_columns method from preprocessor class
+2023-11-22/18:45:01		Entered Seperate_label_feature method in preprocessor class
+2023-11-22/18:45:01		Seperated features and labels,Exited Seperate_label_feature method from preprocessor class
+2023-11-22/18:45:01		Entered the is_null_present method of preprocessing class
+2023-11-22/18:45:01		Finding Missing values is a sucess,Data Written to null_values file.Exited is_null_present method from preprocessing class
+2023-11-22/18:45:01		Entered the impute_missing_values method of preprocessing class
+2023-11-22/18:45:43		Missing Values Imputed .Exited the impute_missing_values method from preprocessor class
+2023-11-22/18:45:43		Entered get_columns_with_zero_std method of preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:45:44		Entered the remove columns method of the preprocessor class 
+2023-11-22/18:45:44		Column Removed Successful.Exited the remove_columns method from preprocessor class
+2023-11-22/18:45:44		Entered the elbow plt method of class kmeansclustering
+2023-11-22/18:45:53		The optimum number of cluster is 3.Exited Elbow Method
+2023-11-22/18:45:53		Entered Number of clusters method of KmeansClustering
+2023-11-22/18:45:54		Entered the save model method inside file_operations class
+2023-11-22/18:45:54		Model saved sucessfully in models/Kmeans
+2023-11-22/18:45:54		Succesfully created [0 2 0 ... 2 0 1] clusters.Exited create clusters method from KMeans clustering method.
+2023-11-22/18:45:54		Entered the get_best_model in Model_finder class
+2023-11-22/18:45:54		Entering the best_params_method for XGBoost Classifer
+2023-11-22/18:45:57		Exception occured at Best params for XGBoost occcured .This is the error 
+All the 320 fits failed.
+It is very likely that your model is misconfigured.
+You can try to debug the error by setting error_score='raise'.
+
+Below are more details about the failures:
+--------------------------------------------------------------------------------
+320 fits failed with the following error:
+Traceback (most recent call last):
+  File "C:\Users\S K E F\Desktop\WaferfaultDetection\virtual\Lib\site-packages\sklearn\model_selection\_validation.py", line 729, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "C:\Users\S K E F\AppData\Roaming\Python\Python311\site-packages\xgboost\core.py", line 729, in inner_f
+    return func(**kwargs)
+           ^^^^^^^^^^^^^^
+  File "C:\Users\S K E F\AppData\Roaming\Python\Python311\site-packages\xgboost\sklearn.py", line 1467, in fit
+    raise ValueError(
+ValueError: Invalid classes inferred from unique values of `y`.  Expected: [0 1], got [-1  1]
+
+2023-11-22/18:45:57		XGboost parameter tuning is failed.Exited Best Params for XGBost method from Model finder
+2023-11-22/18:45:57		Exception occured in get_best_model.Exception message :
+All the 320 fits failed.
+It is very likely that your model is misconfigured.
+You can try to debug the error by setting error_score='raise'.
+
+Below are more details about the failures:
+--------------------------------------------------------------------------------
+320 fits failed with the following error:
+Traceback (most recent call last):
+  File "C:\Users\S K E F\Desktop\WaferfaultDetection\virtual\Lib\site-packages\sklearn\model_selection\_validation.py", line 729, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "C:\Users\S K E F\AppData\Roaming\Python\Python311\site-packages\xgboost\core.py", line 729, in inner_f
+    return func(**kwargs)
+           ^^^^^^^^^^^^^^
+  File "C:\Users\S K E F\AppData\Roaming\Python\Python311\site-packages\xgboost\sklearn.py", line 1467, in fit
+    raise ValueError(
+ValueError: Invalid classes inferred from unique values of `y`.  Expected: [0 1], got [-1  1]
+
+2023-11-22/18:45:57		Model selection Failed.Exited the get_best_model method from Model_Finder class
+2023-11-22/18:45:57		Unsuccesfull End of Training
+2023-11-22/18:54:16		Start of Training
+2023-11-22/18:54:16		Entered the get_data method of Data_getter class
+2023-11-22/18:54:17		Data Loaded Successful.Exited the get_data method from data_getter class 
+2023-11-22/18:54:17		Entered the remove columns method of the preprocessor class 
+2023-11-22/18:54:17		Column Removed Successful.Exited the remove_columns method from preprocessor class
+2023-11-22/18:54:17		Entered Seperate_label_feature method in preprocessor class
+2023-11-22/18:54:17		Seperated features and labels,Exited Seperate_label_feature method from preprocessor class
+2023-11-22/18:54:17		Entered the is_null_present method of preprocessing class
+2023-11-22/18:54:17		Finding Missing values is a sucess,Data Written to null_values file.Exited is_null_present method from preprocessing class
+2023-11-22/18:54:17		Entered the impute_missing_values method of preprocessing class
+2023-11-22/18:55:11		Missing Values Imputed .Exited the impute_missing_values method from preprocessor class
+2023-11-22/18:55:11		Entered get_columns_with_zero_std method of preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:55:12		Entered the remove columns method of the preprocessor class 
+2023-11-22/18:55:12		Column Removed Successful.Exited the remove_columns method from preprocessor class
+2023-11-22/18:55:12		Entered the elbow plt method of class kmeansclustering
+2023-11-22/18:55:21		The optimum number of cluster is 3.Exited Elbow Method
+2023-11-22/18:55:21		Entered Number of clusters method of KmeansClustering
+2023-11-22/18:55:22		Entered the save model method inside file_operations class
+2023-11-22/18:55:22		Model saved sucessfully in models/Kmeans
+2023-11-22/18:55:22		Succesfully created [0 2 0 ... 2 0 1] clusters.Exited create clusters method from KMeans clustering method.
+2023-11-22/18:55:22		Entered the get_best_model in Model_finder class
+2023-11-22/18:55:22		Entering the best_params_method for XGBoost Classifer
+2023-11-22/18:55:26		Exception occured at Best params for XGBoost occcured .This is the error 
+All the 320 fits failed.
+It is very likely that your model is misconfigured.
+You can try to debug the error by setting error_score='raise'.
+
+Below are more details about the failures:
+--------------------------------------------------------------------------------
+320 fits failed with the following error:
+Traceback (most recent call last):
+  File "C:\Users\S K E F\Desktop\WaferfaultDetection\virtual\Lib\site-packages\sklearn\model_selection\_validation.py", line 729, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "C:\Users\S K E F\AppData\Roaming\Python\Python311\site-packages\xgboost\core.py", line 729, in inner_f
+    return func(**kwargs)
+           ^^^^^^^^^^^^^^
+  File "C:\Users\S K E F\AppData\Roaming\Python\Python311\site-packages\xgboost\sklearn.py", line 1467, in fit
+    raise ValueError(
+ValueError: Invalid classes inferred from unique values of `y`.  Expected: [0 1], got [-1  1]
+
+2023-11-22/18:55:26		XGboost parameter tuning is failed.Exited Best Params for XGBost method from Model finder
+2023-11-22/18:55:26		Exception occured in get_best_model.Exception message :
+All the 320 fits failed.
+It is very likely that your model is misconfigured.
+You can try to debug the error by setting error_score='raise'.
+
+Below are more details about the failures:
+--------------------------------------------------------------------------------
+320 fits failed with the following error:
+Traceback (most recent call last):
+  File "C:\Users\S K E F\Desktop\WaferfaultDetection\virtual\Lib\site-packages\sklearn\model_selection\_validation.py", line 729, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "C:\Users\S K E F\AppData\Roaming\Python\Python311\site-packages\xgboost\core.py", line 729, in inner_f
+    return func(**kwargs)
+           ^^^^^^^^^^^^^^
+  File "C:\Users\S K E F\AppData\Roaming\Python\Python311\site-packages\xgboost\sklearn.py", line 1467, in fit
+    raise ValueError(
+ValueError: Invalid classes inferred from unique values of `y`.  Expected: [0 1], got [-1  1]
+
+2023-11-22/18:55:26		Model selection Failed.Exited the get_best_model method from Model_Finder class
+2023-11-22/18:55:26		Unsuccesfull End of Training
+2023-11-22/18:57:09		Start of Training
+2023-11-22/18:57:09		Entered the get_data method of Data_getter class
+2023-11-22/18:57:09		Data Loaded Successful.Exited the get_data method from data_getter class 
+2023-11-22/18:57:09		Entered the remove columns method of the preprocessor class 
+2023-11-22/18:57:09		Column Removed Successful.Exited the remove_columns method from preprocessor class
+2023-11-22/18:57:09		Entered Seperate_label_feature method in preprocessor class
+2023-11-22/18:57:09		Seperated features and labels,Exited Seperate_label_feature method from preprocessor class
+2023-11-22/18:57:09		Entered the is_null_present method of preprocessing class
+2023-11-22/18:57:09		Finding Missing values is a sucess,Data Written to null_values file.Exited is_null_present method from preprocessing class
+2023-11-22/18:57:09		Entered the impute_missing_values method of preprocessing class
+2023-11-22/18:58:13		Missing Values Imputed .Exited the impute_missing_values method from preprocessor class
+2023-11-22/18:58:13		Entered get_columns_with_zero_std method of preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-22/18:58:14		Entered the remove columns method of the preprocessor class 
+2023-11-22/18:58:14		Column Removed Successful.Exited the remove_columns method from preprocessor class
+2023-11-22/18:58:14		Entered the elbow plt method of class kmeansclustering
+2023-11-22/18:58:25		The optimum number of cluster is 3.Exited Elbow Method
+2023-11-22/18:58:25		Entered Number of clusters method of KmeansClustering
+2023-11-22/18:58:25		Entered the save model method inside file_operations class
+2023-11-22/18:58:25		Model saved sucessfully in models/Kmeans
+2023-11-22/18:58:25		Succesfully created [1 2 1 ... 2 1 0] clusters.Exited create clusters method from KMeans clustering method.
+2023-11-22/18:58:25		Entered the get_best_model in Model_finder class
+2023-11-22/18:58:25		Entering the best_params_method for XGBoost Classifer
+2023-11-22/18:58:29		Exception occured at Best params for XGBoost occcured .This is the error 
+All the 320 fits failed.
+It is very likely that your model is misconfigured.
+You can try to debug the error by setting error_score='raise'.
+
+Below are more details about the failures:
+--------------------------------------------------------------------------------
+320 fits failed with the following error:
+Traceback (most recent call last):
+  File "C:\Users\S K E F\Desktop\WaferfaultDetection\virtual\Lib\site-packages\sklearn\model_selection\_validation.py", line 729, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "C:\Users\S K E F\AppData\Roaming\Python\Python311\site-packages\xgboost\core.py", line 729, in inner_f
+    return func(**kwargs)
+           ^^^^^^^^^^^^^^
+  File "C:\Users\S K E F\AppData\Roaming\Python\Python311\site-packages\xgboost\sklearn.py", line 1467, in fit
+    raise ValueError(
+ValueError: Invalid classes inferred from unique values of `y`.  Expected: [0 1], got [-1  1]
+
+2023-11-22/18:58:29		XGboost parameter tuning is failed.Exited Best Params for XGBost method from Model finder
+2023-11-22/18:58:29		Exception occured in get_best_model.Exception message :
+All the 320 fits failed.
+It is very likely that your model is misconfigured.
+You can try to debug the error by setting error_score='raise'.
+
+Below are more details about the failures:
+--------------------------------------------------------------------------------
+320 fits failed with the following error:
+Traceback (most recent call last):
+  File "C:\Users\S K E F\Desktop\WaferfaultDetection\virtual\Lib\site-packages\sklearn\model_selection\_validation.py", line 729, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "C:\Users\S K E F\AppData\Roaming\Python\Python311\site-packages\xgboost\core.py", line 729, in inner_f
+    return func(**kwargs)
+           ^^^^^^^^^^^^^^
+  File "C:\Users\S K E F\AppData\Roaming\Python\Python311\site-packages\xgboost\sklearn.py", line 1467, in fit
+    raise ValueError(
+ValueError: Invalid classes inferred from unique values of `y`.  Expected: [0 1], got [-1  1]
+
+2023-11-22/18:58:29		Model selection Failed.Exited the get_best_model method from Model_Finder class
+2023-11-22/18:58:29		Unsuccesfull End of Training
+2023-11-26/21:38:12		Start of Training
+2023-11-26/21:38:12		Entered the get_data method of Data_getter class
+2023-11-26/21:38:13		Data Loaded Successful.Exited the get_data method from data_getter class 
+2023-11-26/21:38:13		Entered the remove columns method of the preprocessor class 
+2023-11-26/21:38:13		Column Removed Successful.Exited the remove_columns method from preprocessor class
+2023-11-26/21:38:13		Entered Seperate_label_feature method in preprocessor class
+2023-11-26/21:38:13		Seperated features and labels,Exited Seperate_label_feature method from preprocessor class
+2023-11-26/21:38:13		Entered the is_null_present method of preprocessing class
+2023-11-26/21:38:13		Finding Missing values is a sucess,Data Written to null_values file.Exited is_null_present method from preprocessing class
+2023-11-26/21:38:13		Entered the impute_missing_values method of preprocessing class
+2023-11-26/21:40:00		Missing Values Imputed .Exited the impute_missing_values method from preprocessor class
+2023-11-26/21:40:00		Entered get_columns_with_zero_std method of preprocessor class
+2023-11-26/21:40:02		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-26/21:40:02		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-26/21:40:02		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-26/21:40:02		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-26/21:40:02		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-26/21:40:02		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-26/21:40:02		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-26/21:40:02		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-26/21:40:02		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-26/21:40:02		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-26/21:40:02		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-26/21:40:02		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-26/21:40:02		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-26/21:40:02		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-26/21:40:02		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-26/21:40:02		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-26/21:40:02		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-26/21:40:02		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-26/21:40:02		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-26/21:40:02		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-26/21:40:02		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-26/21:40:02		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-26/21:40:02		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-26/21:40:02		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-26/21:40:02		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-26/21:40:02		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-26/21:40:02		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-26/21:40:02		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-26/21:40:02		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-26/21:40:02		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-26/21:40:02		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-26/21:40:02		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-26/21:40:02		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-26/21:40:02		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-26/21:40:02		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-26/21:40:02		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-26/21:40:02		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-26/21:40:02		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-26/21:40:02		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-26/21:40:02		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-26/21:40:02		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-26/21:40:02		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-26/21:40:02		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-26/21:40:02		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-26/21:40:02		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-26/21:40:02		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-26/21:40:02		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-26/21:40:02		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:02:28		Start of Training
+2023-11-27/10:02:28		Entered the get_data method of Data_getter class
+2023-11-27/10:02:29		Data Loaded Successful.Exited the get_data method from data_getter class 
+2023-11-27/10:02:29		Entered the remove columns method of the preprocessor class 
+2023-11-27/10:02:29		Column Removed Successful.Exited the remove_columns method from preprocessor class
+2023-11-27/10:02:29		Entered Seperate_label_feature method in preprocessor class
+2023-11-27/10:02:29		Seperated features and labels,Exited Seperate_label_feature method from preprocessor class
+2023-11-27/10:02:29		Entered the is_null_present method of preprocessing class
+2023-11-27/10:02:29		Finding Missing values is a sucess,Data Written to null_values file.Exited is_null_present method from preprocessing class
+2023-11-27/10:02:29		Entered the impute_missing_values method of preprocessing class
+2023-11-27/10:04:11		Missing Values Imputed .Exited the impute_missing_values method from preprocessor class
+2023-11-27/10:04:11		Entered get_columns_with_zero_std method of preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Find columns having zero std deviation and columns list .Exited the get_columns_with_zero_std method from preprocessor class
+2023-11-27/10:04:12		Entered the remove columns method of the preprocessor class 
+2023-11-27/10:04:12		Column Removed Successful.Exited the remove_columns method from preprocessor class
+2023-11-27/10:04:12		Entered the elbow plt method of class kmeansclustering
+2023-11-27/10:04:25		The optimum number of cluster is 3.Exited Elbow Method
+2023-11-27/10:04:25		Entered Number of clusters method of KmeansClustering
+2023-11-27/10:04:27		Entered the save model method inside file_operations class
+2023-11-27/10:04:27		Model saved sucessfully in models/Kmeans
+2023-11-27/10:04:27		Succesfully created [1 2 1 ... 2 1 0] clusters.Exited create clusters method from KMeans clustering method.
+2023-11-27/10:04:27		Entered the get_best_model in Model_finder class
+2023-11-27/10:04:27		Entering the best_params_method for GBoost Classifer
+2023-11-27/10:13:17		best params for GBoost is {'learning_rate': 0.1, 'max_depth': 5, 'n_estimators': 50}Exited the get params from GradientBoost Method in Model_finder
+2023-11-27/10:13:17		Roc Auc Score for Gboost 1.0
+2023-11-27/10:13:17		Entered best_params_for_RandomForest Method of Model_finder
+2023-11-27/10:13:33		Random Forest best params{'criterion': 'gini', 'max_depth': 3, 'max_features': 'sqrt', 'n_estimators': 10}.Exited Best_params_for_randomForest method of Model_finder
+2023-11-27/10:13:33		Roc AuC Score is 0.5174418604651163
+2023-11-27/10:13:33		Entered the save model method inside file_operations class
+2023-11-27/10:13:33		Model saved sucessfully in models/GBoost1
+2023-11-27/10:13:33		Entered the get_best_model in Model_finder class
+2023-11-27/10:13:33		Entering the best_params_method for GBoost Classifer
+2023-11-27/10:14:43		best params for GBoost is {'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 50}Exited the get params from GradientBoost Method in Model_finder
+2023-11-27/10:14:43		Roc Auc Score for Gboost 1.0
+2023-11-27/10:14:43		Entered best_params_for_RandomForest Method of Model_finder
+2023-11-27/10:14:48		Random Forest best params{'criterion': 'entropy', 'max_depth': 3, 'max_features': 'sqrt', 'n_estimators': 50}.Exited Best_params_for_randomForest method of Model_finder
+2023-11-27/10:14:48		Roc AuC Score is 1.0
+2023-11-27/10:14:48		Entered the save model method inside file_operations class
+2023-11-27/10:14:48		Model saved sucessfully in models/RandomForest2
+2023-11-27/10:14:48		Entered the get_best_model in Model_finder class
+2023-11-27/10:14:48		Entering the best_params_method for GBoost Classifer
+2023-11-27/10:17:45		best params for GBoost is {'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 50}Exited the get params from GradientBoost Method in Model_finder
+2023-11-27/10:17:45		Roc Auc Score for Gboost 1.0
+2023-11-27/10:17:45		Entered best_params_for_RandomForest Method of Model_finder
+2023-11-27/10:17:55		Random Forest best params{'criterion': 'entropy', 'max_depth': 3, 'max_features': 'sqrt', 'n_estimators': 50}.Exited Best_params_for_randomForest method of Model_finder
+2023-11-27/10:17:55		Roc AuC Score is 0.8255813953488372
+2023-11-27/10:17:55		Entered the save model method inside file_operations class
+2023-11-27/10:17:55		Model saved sucessfully in models/GBoost0
+2023-11-27/10:17:55		Succesfull End Of Training

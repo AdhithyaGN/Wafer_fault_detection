@@ -1,0 +1,192 @@
+2023-11-22/14:32:23		Misssing Values Validation Started
+2023-11-22/14:32:23		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/14:32:23		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/14:32:24		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/14:32:24		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/14:32:24		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/14:32:24		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/14:32:25		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/14:35:09		Misssing Values Validation Started
+2023-11-22/14:35:09		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/14:35:09		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/14:35:10		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/14:35:10		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/14:35:10		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/14:35:10		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/14:35:10		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/14:43:10		Misssing Values Validation Started
+2023-11-22/14:43:10		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/14:43:11		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/14:43:11		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/14:43:11		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/14:43:11		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/14:43:12		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/14:43:12		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/14:45:52		Misssing Values Validation Started
+2023-11-22/14:45:52		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/14:45:52		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/14:45:53		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/14:45:53		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/14:45:53		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/14:45:54		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/14:45:54		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/14:51:03		Misssing Values Validation Started
+2023-11-22/14:51:03		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/14:51:04		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/14:51:04		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/14:51:04		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/14:51:04		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/14:51:05		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/14:51:05		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/14:52:22		Misssing Values Validation Started
+2023-11-22/14:52:22		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/14:52:22		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/14:52:23		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/14:52:23		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/14:52:23		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/14:52:23		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/14:52:23		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/14:54:21		Misssing Values Validation Started
+2023-11-22/14:54:21		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/14:54:22		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/14:54:22		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/14:54:22		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/14:54:22		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/14:54:23		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/14:54:23		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/15:08:41		Misssing Values Validation Started
+2023-11-22/15:08:41		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/15:08:41		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/15:08:42		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/15:08:42		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/15:08:42		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/15:08:42		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/15:08:43		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/15:13:16		Misssing Values Validation Started
+2023-11-22/15:13:16		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/15:13:16		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/15:13:16		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/15:13:16		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/15:13:16		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/15:13:17		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/15:13:17		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/15:15:29		Misssing Values Validation Started
+2023-11-22/15:15:29		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/15:15:30		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/15:15:30		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/15:15:30		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/15:15:30		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/15:15:31		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/15:15:31		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/16:10:51		Misssing Values Validation Started
+2023-11-22/16:10:51		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/16:10:51		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/16:10:52		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/16:10:52		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/16:10:52		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/16:10:52		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/16:10:53		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/16:16:02		Misssing Values Validation Started
+2023-11-22/16:16:02		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/16:16:02		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/16:16:03		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/16:16:03		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/16:16:03		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/16:16:04		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/16:16:04		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/17:49:58		Misssing Values Validation Started
+2023-11-22/17:49:58		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/17:49:58		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/17:49:59		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/17:49:59		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/17:49:59		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/17:49:59		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/17:49:59		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:16:20		Misssing Values Validation Started
+2023-11-22/18:16:20		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:16:21		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:16:21		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:16:21		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:16:21		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:16:22		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:16:22		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:18:11		Misssing Values Validation Started
+2023-11-22/18:18:11		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:18:11		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:18:12		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:18:12		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:18:12		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:18:13		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:18:13		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:23:56		Misssing Values Validation Started
+2023-11-22/18:23:56		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:23:56		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:23:57		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:23:57		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:23:57		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:23:57		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:23:57		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:31:08		Misssing Values Validation Started
+2023-11-22/18:31:08		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:31:09		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:31:09		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:31:09		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:31:09		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:31:10		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:31:10		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:36:13		Misssing Values Validation Started
+2023-11-22/18:36:13		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:36:13		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:36:13		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:36:13		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:36:14		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:36:14		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:36:14		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:42:10		Misssing Values Validation Started
+2023-11-22/18:42:10		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:42:10		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:42:11		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:42:11		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:42:11		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:42:11		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:42:11		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:44:46		Misssing Values Validation Started
+2023-11-22/18:44:46		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:44:46		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:44:47		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:44:47		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:44:47		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:44:48		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:44:48		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:54:02		Misssing Values Validation Started
+2023-11-22/18:54:02		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:54:03		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:54:03		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:54:03		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:54:03		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:54:04		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:54:04		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:56:54		Misssing Values Validation Started
+2023-11-22/18:56:54		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:56:54		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:56:54		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:56:54		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:56:55		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:56:55		Zero column spotted !! file moved to Bad_raw Data
+2023-11-22/18:56:55		Zero column spotted !! file moved to Bad_raw Data
+2023-11-26/21:37:54		Misssing Values Validation Started
+2023-11-26/21:37:54		Zero column spotted !! file moved to Bad_raw Data
+2023-11-26/21:37:54		Zero column spotted !! file moved to Bad_raw Data
+2023-11-26/21:37:54		Zero column spotted !! file moved to Bad_raw Data
+2023-11-26/21:37:55		Zero column spotted !! file moved to Bad_raw Data
+2023-11-26/21:37:55		Zero column spotted !! file moved to Bad_raw Data
+2023-11-26/21:37:55		Zero column spotted !! file moved to Bad_raw Data
+2023-11-26/21:37:55		Zero column spotted !! file moved to Bad_raw Data
+2023-11-27/10:02:12		Misssing Values Validation Started
+2023-11-27/10:02:12		Zero column spotted !! file moved to Bad_raw Data
+2023-11-27/10:02:12		Zero column spotted !! file moved to Bad_raw Data
+2023-11-27/10:02:13		Zero column spotted !! file moved to Bad_raw Data
+2023-11-27/10:02:13		Zero column spotted !! file moved to Bad_raw Data
+2023-11-27/10:02:13		Zero column spotted !! file moved to Bad_raw Data
+2023-11-27/10:02:13		Zero column spotted !! file moved to Bad_raw Data
+2023-11-27/10:02:14		Zero column spotted !! file moved to Bad_raw Data

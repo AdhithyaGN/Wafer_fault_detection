@@ -1,0 +1,247 @@
+2023-11-22/13:16:41		start of validation on files
+2023-11-22/13:31:12		start of validation on files
+2023-11-22/13:57:32		start of validation on files
+2023-11-22/14:06:05		start of validation on files
+2023-11-22/14:32:22		start of validation on files
+2023-11-22/14:32:25		Raw Data Validation completed
+2023-11-22/14:32:25		Data transformation started
+2023-11-22/14:35:08		start of validation on files
+2023-11-22/14:35:10		Raw Data Validation completed
+2023-11-22/14:35:10		Data transformation started
+2023-11-22/14:35:12		Data transformation completed
+2023-11-22/14:35:12		creating training Database and tables on the basis given schema
+2023-11-22/14:43:09		start of validation on files
+2023-11-22/14:43:12		Raw Data Validation completed
+2023-11-22/14:43:12		Data transformation started
+2023-11-22/14:43:13		Data transformation completed
+2023-11-22/14:43:13		creating training Database and tables on the basis given schema
+2023-11-22/14:43:13		Table cration completed!!!
+2023-11-22/14:43:13		Inserting Data Into table started!!!
+2023-11-22/14:45:51		start of validation on files
+2023-11-22/14:45:54		Raw Data Validation completed
+2023-11-22/14:45:54		Data transformation started
+2023-11-22/14:45:55		Data transformation completed
+2023-11-22/14:45:55		creating training Database and tables on the basis given schema
+2023-11-22/14:45:55		Table cration completed!!!
+2023-11-22/14:45:55		Inserting Data Into table started!!!
+2023-11-22/14:51:02		start of validation on files
+2023-11-22/14:51:05		Raw Data Validation completed
+2023-11-22/14:51:05		Data transformation started
+2023-11-22/14:51:07		Data transformation completed
+2023-11-22/14:51:07		creating training Database and tables on the basis given schema
+2023-11-22/14:51:07		Table cration completed!!!
+2023-11-22/14:51:07		Inserting Data Into table started!!!
+2023-11-22/14:52:21		start of validation on files
+2023-11-22/14:52:23		Raw Data Validation completed
+2023-11-22/14:52:23		Data transformation started
+2023-11-22/14:52:25		Data transformation completed
+2023-11-22/14:52:25		creating training Database and tables on the basis given schema
+2023-11-22/14:52:25		Table cration completed!!!
+2023-11-22/14:52:25		Inserting Data Into table started!!!
+2023-11-22/14:54:20		start of validation on files
+2023-11-22/14:54:23		Raw Data Validation completed
+2023-11-22/14:54:23		Data transformation started
+2023-11-22/14:54:25		Data transformation completed
+2023-11-22/14:54:25		creating training Database and tables on the basis given schema
+2023-11-22/14:54:25		Table cration completed!!!
+2023-11-22/14:54:25		Inserting Data Into table started!!!
+2023-11-22/15:08:40		start of validation on files
+2023-11-22/15:08:43		Raw Data Validation completed
+2023-11-22/15:08:43		Data transformation started
+2023-11-22/15:08:44		Data transformation completed
+2023-11-22/15:08:44		creating training Database and tables on the basis given schema
+2023-11-22/15:08:44		Table cration completed!!!
+2023-11-22/15:08:44		Inserting Data Into table started!!!
+2023-11-22/15:13:15		start of validation on files
+2023-11-22/15:13:17		Raw Data Validation completed
+2023-11-22/15:13:17		Data transformation started
+2023-11-22/15:13:19		Data transformation completed
+2023-11-22/15:13:19		creating training Database and tables on the basis given schema
+2023-11-22/15:13:19		Table cration completed!!!
+2023-11-22/15:13:19		Inserting Data Into table started!!!
+2023-11-22/15:15:28		start of validation on files
+2023-11-22/15:15:31		Raw Data Validation completed
+2023-11-22/15:15:31		Data transformation started
+2023-11-22/15:15:33		Data transformation completed
+2023-11-22/15:15:33		creating training Database and tables on the basis given schema
+2023-11-22/15:15:33		Table cration completed!!!
+2023-11-22/15:15:33		Inserting Data Into table started!!!
+2023-11-22/16:10:50		start of validation on files
+2023-11-22/16:10:53		Raw Data Validation completed
+2023-11-22/16:10:53		Data transformation started
+2023-11-22/16:10:54		Data transformation completed
+2023-11-22/16:10:54		creating training Database and tables on the basis given schema
+2023-11-22/16:10:57		Table cration completed!!!
+2023-11-22/16:10:57		Inserting Data Into table started!!!
+2023-11-22/16:16:01		start of validation on files
+2023-11-22/16:16:04		Raw Data Validation completed
+2023-11-22/16:16:04		Data transformation started
+2023-11-22/16:16:05		Data transformation completed
+2023-11-22/16:16:05		creating training Database and tables on the basis given schema
+2023-11-22/16:16:08		Table cration completed!!!
+2023-11-22/16:16:08		Inserting Data Into table started!!!
+2023-11-22/17:49:57		start of validation on files
+2023-11-22/17:49:59		Raw Data Validation completed
+2023-11-22/17:49:59		Data transformation started
+2023-11-22/17:50:01		Data transformation completed
+2023-11-22/17:50:01		creating training Database and tables on the basis given schema
+2023-11-22/17:50:01		Table cration completed!!!
+2023-11-22/17:50:01		Inserting Data Into table started!!!
+2023-11-22/17:50:06		Data insertion in database completed
+2023-11-22/17:50:06		Deleting Good Data folder
+2023-11-22/17:50:06		 Deleting Good data folder
+2023-11-22/17:50:06		Moving bad files to archive and deleting bad_data folder
+2023-11-22/18:16:19		start of validation on files
+2023-11-22/18:16:22		Raw Data Validation completed
+2023-11-22/18:16:22		Data transformation started
+2023-11-22/18:16:23		Data transformation completed
+2023-11-22/18:16:23		creating training Database and tables on the basis given schema
+2023-11-22/18:16:23		Table cration completed!!!
+2023-11-22/18:16:23		Inserting Data Into table started!!!
+2023-11-22/18:16:28		Data insertion in database completed
+2023-11-22/18:16:28		Deleting Good Data folder
+2023-11-22/18:16:28		 Deleting Good data folder
+2023-11-22/18:16:28		Moving bad files to archive and deleting bad_data folder
+2023-11-22/18:16:28		deleted Bad raw data after moving it into Archives
+2023-11-22/18:16:28		Data avlidation Operation completed
+2023-11-22/18:16:28		Extracting csv from database table
+2023-11-22/18:18:10		start of validation on files
+2023-11-22/18:18:13		Raw Data Validation completed
+2023-11-22/18:18:13		Data transformation started
+2023-11-22/18:18:14		Data transformation completed
+2023-11-22/18:18:14		creating training Database and tables on the basis given schema
+2023-11-22/18:18:14		Table cration completed!!!
+2023-11-22/18:18:14		Inserting Data Into table started!!!
+2023-11-22/18:18:20		Data insertion in database completed
+2023-11-22/18:18:20		Deleting Good Data folder
+2023-11-22/18:18:20		 Deleting Good data folder
+2023-11-22/18:18:20		Moving bad files to archive and deleting bad_data folder
+2023-11-22/18:18:20		deleted Bad raw data after moving it into Archives
+2023-11-22/18:18:20		Data avlidation Operation completed
+2023-11-22/18:18:20		Extracting csv from database table
+2023-11-22/18:23:55		start of validation on files
+2023-11-22/18:23:57		Raw Data Validation completed
+2023-11-22/18:23:57		Data transformation started
+2023-11-22/18:23:59		Data transformation completed
+2023-11-22/18:23:59		creating training Database and tables on the basis given schema
+2023-11-22/18:23:59		Table cration completed!!!
+2023-11-22/18:23:59		Inserting Data Into table started!!!
+2023-11-22/18:24:04		Data insertion in database completed
+2023-11-22/18:24:04		Deleting Good Data folder
+2023-11-22/18:24:04		 Deleting Good data folder
+2023-11-22/18:24:04		Moving bad files to archive and deleting bad_data folder
+2023-11-22/18:24:04		deleted Bad raw data after moving it into Archives
+2023-11-22/18:24:04		Data avlidation Operation completed
+2023-11-22/18:24:04		Extracting csv from database table
+2023-11-22/18:31:07		start of validation on files
+2023-11-22/18:31:10		Raw Data Validation completed
+2023-11-22/18:31:10		Data transformation started
+2023-11-22/18:31:11		Data transformation completed
+2023-11-22/18:31:11		creating training Database and tables on the basis given schema
+2023-11-22/18:31:11		Table cration completed!!!
+2023-11-22/18:31:11		Inserting Data Into table started!!!
+2023-11-22/18:31:16		Data insertion in database completed
+2023-11-22/18:31:16		Deleting Good Data folder
+2023-11-22/18:31:16		 Deleting Good data folder
+2023-11-22/18:31:16		Moving bad files to archive and deleting bad_data folder
+2023-11-22/18:31:16		deleted Bad raw data after moving it into Archives
+2023-11-22/18:31:16		Data avlidation Operation completed
+2023-11-22/18:31:16		Extracting csv from database table
+2023-11-22/18:36:12		start of validation on files
+2023-11-22/18:36:14		Raw Data Validation completed
+2023-11-22/18:36:14		Data transformation started
+2023-11-22/18:36:16		Data transformation completed
+2023-11-22/18:36:16		creating training Database and tables on the basis given schema
+2023-11-22/18:36:16		Table cration completed!!!
+2023-11-22/18:36:16		Inserting Data Into table started!!!
+2023-11-22/18:36:21		Data insertion in database completed
+2023-11-22/18:36:21		Deleting Good Data folder
+2023-11-22/18:36:21		 Deleting Good data folder
+2023-11-22/18:36:21		Moving bad files to archive and deleting bad_data folder
+2023-11-22/18:36:21		deleted Bad raw data after moving it into Archives
+2023-11-22/18:36:21		Data avlidation Operation completed
+2023-11-22/18:36:21		Extracting csv from database table
+2023-11-22/18:42:09		start of validation on files
+2023-11-22/18:42:11		Raw Data Validation completed
+2023-11-22/18:42:11		Data transformation started
+2023-11-22/18:42:13		Data transformation completed
+2023-11-22/18:42:13		creating training Database and tables on the basis given schema
+2023-11-22/18:42:13		Table cration completed!!!
+2023-11-22/18:42:13		Inserting Data Into table started!!!
+2023-11-22/18:42:18		Data insertion in database completed
+2023-11-22/18:42:18		Deleting Good Data folder
+2023-11-22/18:42:18		 Deleting Good data folder
+2023-11-22/18:42:18		Moving bad files to archive and deleting bad_data folder
+2023-11-22/18:42:18		deleted Bad raw data after moving it into Archives
+2023-11-22/18:42:18		Data avlidation Operation completed
+2023-11-22/18:42:18		Extracting csv from database table
+2023-11-22/18:44:45		start of validation on files
+2023-11-22/18:44:48		Raw Data Validation completed
+2023-11-22/18:44:48		Data transformation started
+2023-11-22/18:44:50		Data transformation completed
+2023-11-22/18:44:50		creating training Database and tables on the basis given schema
+2023-11-22/18:44:50		Table cration completed!!!
+2023-11-22/18:44:50		Inserting Data Into table started!!!
+2023-11-22/18:44:55		Data insertion in database completed
+2023-11-22/18:44:55		Deleting Good Data folder
+2023-11-22/18:44:55		 Deleting Good data folder
+2023-11-22/18:44:55		Moving bad files to archive and deleting bad_data folder
+2023-11-22/18:44:55		deleted Bad raw data after moving it into Archives
+2023-11-22/18:44:55		Data avlidation Operation completed
+2023-11-22/18:44:55		Extracting csv from database table
+2023-11-22/18:54:01		start of validation on files
+2023-11-22/18:54:04		Raw Data Validation completed
+2023-11-22/18:54:04		Data transformation started
+2023-11-22/18:54:05		Data transformation completed
+2023-11-22/18:54:05		creating training Database and tables on the basis given schema
+2023-11-22/18:54:05		Table cration completed!!!
+2023-11-22/18:54:05		Inserting Data Into table started!!!
+2023-11-22/18:54:10		Data insertion in database completed
+2023-11-22/18:54:10		Deleting Good Data folder
+2023-11-22/18:54:10		 Deleting Good data folder
+2023-11-22/18:54:10		Moving bad files to archive and deleting bad_data folder
+2023-11-22/18:54:10		deleted Bad raw data after moving it into Archives
+2023-11-22/18:54:10		Data avlidation Operation completed
+2023-11-22/18:54:10		Extracting csv from database table
+2023-11-22/18:56:53		start of validation on files
+2023-11-22/18:56:55		Raw Data Validation completed
+2023-11-22/18:56:55		Data transformation started
+2023-11-22/18:56:57		Data transformation completed
+2023-11-22/18:56:57		creating training Database and tables on the basis given schema
+2023-11-22/18:56:57		Table cration completed!!!
+2023-11-22/18:56:57		Inserting Data Into table started!!!
+2023-11-22/18:57:02		Data insertion in database completed
+2023-11-22/18:57:02		Deleting Good Data folder
+2023-11-22/18:57:02		 Deleting Good data folder
+2023-11-22/18:57:02		Moving bad files to archive and deleting bad_data folder
+2023-11-22/18:57:02		deleted Bad raw data after moving it into Archives
+2023-11-22/18:57:02		Data avlidation Operation completed
+2023-11-22/18:57:02		Extracting csv from database table
+2023-11-26/21:37:51		start of validation on files
+2023-11-26/21:37:55		Raw Data Validation completed
+2023-11-26/21:37:55		Data transformation started
+2023-11-26/21:37:57		Data transformation completed
+2023-11-26/21:37:57		creating training Database and tables on the basis given schema
+2023-11-26/21:37:57		Table cration completed!!!
+2023-11-26/21:37:57		Inserting Data Into table started!!!
+2023-11-26/21:38:04		Data insertion in database completed
+2023-11-26/21:38:04		Deleting Good Data folder
+2023-11-26/21:38:04		 Deleting Good data folder
+2023-11-26/21:38:04		Moving bad files to archive and deleting bad_data folder
+2023-11-26/21:38:04		deleted Bad raw data after moving it into Archives
+2023-11-26/21:38:04		Data avlidation Operation completed
+2023-11-26/21:38:04		Extracting csv from database table
+2023-11-27/10:02:11		start of validation on files
+2023-11-27/10:02:14		Raw Data Validation completed
+2023-11-27/10:02:14		Data transformation started
+2023-11-27/10:02:15		Data transformation completed
+2023-11-27/10:02:15		creating training Database and tables on the basis given schema
+2023-11-27/10:02:15		Table cration completed!!!
+2023-11-27/10:02:15		Inserting Data Into table started!!!
+2023-11-27/10:02:20		Data insertion in database completed
+2023-11-27/10:02:20		Deleting Good Data folder
+2023-11-27/10:02:20		 Deleting Good data folder
+2023-11-27/10:02:20		Moving bad files to archive and deleting bad_data folder
+2023-11-27/10:02:20		deleted Bad raw data after moving it into Archives
+2023-11-27/10:02:20		Data avlidation Operation completed
+2023-11-27/10:02:20		Extracting csv from database table
